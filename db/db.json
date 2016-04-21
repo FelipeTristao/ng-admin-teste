@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "how to develop",
+      "author": "felipe"
+    },
+    {
+      "id": 3,
+      "title": "styling with css",
+      "author": "jofre"
+    },
+    {
+      "title": "felipe edit",
+      "author": "eu",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "body": "some comment",
+      "postId": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
